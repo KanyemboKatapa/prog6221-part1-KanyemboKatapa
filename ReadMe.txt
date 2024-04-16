@@ -6,4 +6,4 @@
 4.) If step 3 does not work, right click in the program class and select "Run"/.
 
 
-Github Repository link: https://github.com/VCSTDN/prog6221-part1-KanyemboKatapa.git
+Github Repository link: https://github.com/KanyemboKatapa/prog6221-part1-KanyemboKatapa.git
